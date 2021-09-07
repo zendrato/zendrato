@@ -1,7 +1,8 @@
-### Hi there 👋
+### Horas semuanya... 👋
+Nama saya Onald zendrato, lebih senang di pangging zendrato.
+Saya Tinggal di Silahisabungan, Dairi, Sumatera Utara, Indonesia
 
-<!--
-**zendrato/zendrato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**zendrato/zendrato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
