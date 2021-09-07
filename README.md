@@ -1,5 +1,5 @@
 ### Horas semuanya... 👋
-Nama saya Onald zendrato, lebih senang di pangging zendrato.
+Nama saya Onald zendrato, lebih senang di panggil zendrato.
 Saya Tinggal di Silahisabungan, Dairi, Sumatera Utara, Indonesia
 
 <!--**zendrato/zendrato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
